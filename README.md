@@ -31,7 +31,7 @@ The project includes:
 
 | Property | Details |
 |----------|----------|
-| Dataset | Salary_Data.csv |
+| Dataset | https://www.kaggle.com/datasets/rkiattisak/salaly-prediction-for-beginer |
 | Target Variable | `Salary` |
 | Missing Values | Removed before training |
 
