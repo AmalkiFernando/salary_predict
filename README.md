@@ -157,7 +157,7 @@ The models were evaluated using:
 ```
 salary-prediction/
 │
-├── notebook.ipynb          # Main Jupyter Notebook
+├── notebook.ipynb          # Main Notebook
 ├── Salary_Data.csv         # Dataset
 ├── salary_model.pkl        # Saved trained model
 ├── salary_scaler.pkl       # Saved StandardScaler
